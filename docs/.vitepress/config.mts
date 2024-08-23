@@ -1,10 +1,8 @@
 import { defineConfig } from 'vitepress'
 
-const base = "HomePage";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base,
     title: "FabricDocs",
     description: "Fabric Docs",
     themeConfig: {
