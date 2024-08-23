@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 第一个物品
-      link: /01-第一个物品
+      link: ./01-第一个物品
   image:
     src: https://docs.fabricmc.net/logo.png
     alt: FabricIcon
