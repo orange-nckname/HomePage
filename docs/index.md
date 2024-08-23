@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: Minecraft Fabric 模组开发文档
-  text: 版本：Java 版 V1.21
-  tagline: 
+  name: orange-nckname
+  text: 的个人主页
+  tagline: 个人分享资料都会在这个网页哦
   actions:
     - theme: brand
-      text: 第一个物品
-      link: /01-第一个物品
+      text: Fabric Mod 开发笔记
+      link: /FabricDocs/index.md
 ---
