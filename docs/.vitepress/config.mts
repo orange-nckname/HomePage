@@ -3,12 +3,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "FabricDocs",
-    description: "Fabric Docs",
+    title: "orange-nckname的主页",
+    description: "orange-nckname\'s Home Page",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: '快速开始', link: '/01-第一个物品' },
+            { text: '快速开始', link: './FabricDocs/01-第一个物品' },
         ],
 
         sidebar: [
@@ -22,7 +22,7 @@ export default defineConfig({
         ],
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+            { icon: 'github', link: 'https://github.com/orange-nckname' }
         ]
     }
 })
